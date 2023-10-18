@@ -47,6 +47,6 @@ Please note that the "Forgot Password" feature is still under development and wi
 
 ## Contact Information
 
-You can contact the developer at [developer@email.com](mailto:developer@email.com) for any inquiries or support.
+You can contact the developer at [developer@email.com](mailto:sushh.p.007@gmail.com) for any inquiries or support.
 
 **Enjoy using the application!**
